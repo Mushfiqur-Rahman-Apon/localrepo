@@ -2,12 +2,8 @@
 int main()
 {
     int i=1;
-    while(i<=15)
+    while(i<=3)
     {
-        if(i==5)
-        {
-            break;
-        }
         printf("%d\n",i);
         i++;
     }
